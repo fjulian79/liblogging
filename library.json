@@ -1,0 +1,13 @@
+{
+    "name": "liblogging",
+    "version": "1.0.0",
+    "keywords": "",
+    "description": "A minimalistic approach to handle log messages with different severities.",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/fjulian79/liblogging.git"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
